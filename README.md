@@ -1,7 +1,7 @@
 <h1 align="center">R&#233;sum&#233;</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aendeavor&show_icons=true&locale=en&langs_count=4&hide_border=true&hide_title=true" /> <img src="https://github-readme-stats.vercel.app/api?username=aendeavor&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aendeavor&show_icons=true&locale=en&langs_count=3&hide_border=true&hide_title=true" /> <img src="https://github-readme-stats.vercel.app/api?username=aendeavor&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
