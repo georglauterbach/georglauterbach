@@ -1,2 +1,2 @@
-<h1 align="center"><b><a href="https://georglauterbach.de">Georg Lauterbach</a></b></h1>
+<h1 align="center"><a href="https://georglauterbach.de" target="_blank">georglauterbach.de</a></h1>
 <h3 align="center">IT-Consulting, Support & Services</h3>
