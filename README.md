@@ -1,1 +1,2 @@
-<h1 align="center"><samp>Στο τέλος, οι πράξεις μας μετράνε, όχι τα λόγια μας.</samp></h1>
+<h1 align="center"><b><a href="https://georglauterbach.de">Georg Lauterbach</a></b></h1>
+<h3 align="center">IT-Consulting, Support & Services</h3>
