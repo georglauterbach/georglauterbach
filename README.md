@@ -1,2 +1,1 @@
-<h1 align="center"><a href="https://georglauterbach.de" target="_blank">georglauterbach.de</a></h1>
-<h3 align="center">IT-Consulting, Support & Services</h3>
+<img align="center" width="100%" src="https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox">
