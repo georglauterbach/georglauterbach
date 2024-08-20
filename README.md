@@ -4,7 +4,8 @@
 
 ## Statistics
 
-<img align="center" width="100%" src="https://github-trophies.vercel.app/?username=georglauterbach&rank=SECRET,SSS,SS,S,AAA&row=3&column=3" />
+<img align="center" width="100%" src="https://github-trophies.vercel.app/?username=georglauterbach&rank=SECRET,SSS,SS,S,AAA&row=3&column=3"
+&margin-w=30&margin-h=15" />
 
 ## Miscellaneous
 
