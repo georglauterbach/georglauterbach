@@ -12,7 +12,7 @@
 >
 > "Computer Science is no more about computers than astronomy is about telescopes."
 >
-> – _Edsger Wybe Dijkstra_
+> –- _Edsger Wybe Dijkstra_
 
 <h2 align="center">Statistics</h2>
 
