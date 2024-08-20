@@ -10,4 +10,4 @@
 
 ---
 
-<img align="center" width="100%" src="https://github-trophies.vercel.app/?username=georglauterbach&rank=SECRET,SSS,SS,S,AAA&row=2&column=9">
+<img align="center" width="100%" src="https://github-trophies.vercel.app/?username=georglauterbach&rank=SECRET,SSS,SS,S,AAA&row=2&column=5">
