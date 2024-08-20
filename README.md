@@ -14,6 +14,6 @@
 >
 > – _Edsger Wybe Dijkstra_
 
-## Statistics
+<h2 align="center">Statistics</h2>
 
 <img align="center" width="100%" src="https://github-trophies.vercel.app/?username=georglauterbach&rank=SECRET,SSS,SS,S,AAA&row=3&column=3&margin-w=15&margin-h=15" />
