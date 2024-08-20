@@ -2,12 +2,6 @@
 
 # GitHub Profile
 
-## Statistics
-
-<img align="center" width="100%" src="https://github-trophies.vercel.app/?username=georglauterbach&rank=SECRET,SSS,SS,S,AAA&row=3&column=3&margin-w=15&margin-h=15" />
-
-## Miscellaneous
-
 > [!IMPORTANT]
 >
 > "Abstraction is not about vagueness, it is about **being precise on a new semantic level**."
@@ -18,3 +12,6 @@
 >
 > – _Edsger Wybe Dijkstra_
 
+## Statistics
+
+<img align="center" width="100%" src="https://github-trophies.vercel.app/?username=georglauterbach&rank=SECRET,SSS,SS,S,AAA&row=3&column=3&margin-w=15&margin-h=15" />
