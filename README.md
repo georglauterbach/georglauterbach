@@ -10,7 +10,7 @@
 
 ## Who I Am
 
-I am a computer scientist with a Master of Science (M.Sc.) in Computer Science from Technische Universität (TU) Dresden in Germany. I have specialized in operating system kernels and memory safety. At university, I learned two important facts:
+I am a computer scientist with a Master of Science (M.Sc.) from Technische Universität (TU) Dresden in Germany. I have specialized in operating system kernels and memory safety. At university, I learned two important facts:
 
 1. Abstraction is not about vagueness, it is about being precise on a new semantic level.
 2. Computer Science is no more about computers than astronomy is about telescopes.
