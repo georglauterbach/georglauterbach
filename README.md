@@ -10,7 +10,9 @@
 
 ## Who I Am
 
-I am a computer scientist with a Master of Science (M.Sc.) from Technische Universität (TU) Dresden in Germany who has specialized in systems programming.
+I am a computer scientist with a Master of Science (M.Sc.) from Technische Universität (TU) Dresden in Germany who has specialized in systems programming, memory safety, operating system kernels, containers, and the [Rust programming language](https://www.rust-lang.org/).
+
+If you'd like to get the basic set of tooling that I use on a daily basis, head over to [`georglauterbach/hermes`](https://github.com/georglauterbach/hermes).
 
 > [!IMPORTANT]
 >
@@ -20,12 +22,8 @@ I am a computer scientist with a Master of Science (M.Sc.) from Technische Unive
 
 ## What I Do on GitHub
 
-I am well-versed in Bash and write a lot for [`docker-mailserver/docker-mailserver` (DMS)](https://github.com/docker-mailserver/docker-mailserver) - GitHub's largest containerized mail server project. DMS provides everyone with the ability to host their mail server in a containerized environment, like Docker Compose, Podman or Kubernetes. Beyond DMS, I have a library for useful Bash functions that anyone can use freely called [`georglauterbach/libbash`](https://github.com/georglauterbach/libbash).
+I write a lot of Bash for [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) - one of GitHub's largest containerized mail server projects. DMS provides everyone with the ability to host their mail server in a containerized environment, like Docker Compose, Podman or Kubernetes. Beyond DMS, I have a library for useful Bash functions that anyone can use freely called [`georglauterbach/libbash`](https://github.com/georglauterbach/libbash).
 
-Tooling for proper software development is a key interest of mine. I am curating a [Development Container](https://containers.dev/) features in [`georglauterbach/dev-container-features`](https://github.com/georglauterbach/dev-container-features). If you'd like to get the basic set of tooling that I use on a daily basis, head over to [`georglauterbach/hermes`](https://github.com/georglauterbach/hermes).
+Tooling for proper software development is a key interest of mine. Hence, I am curating [Development Container](https://containers.dev/) features in [`georglauterbach/dev-container-features`](https://github.com/georglauterbach/dev-container-features).
 
-> [!NOTE]
->
-> You can [sponsor me on GitHub](https://github.com/sponsors/georglauterbach) :heart:
-
-I have specialized in operating system kernels, memory safety, and the [Rust programming language](https://www.rust-lang.org/). I am trying to continue to work on these topics. You can find a "Getting Started" project for a kernel in Rust targeting the RISC-V platform in my repository called [`georglauterbach/uncore`](https://github.com/georglauterbach/uncore).
+You can also find a "Getting Started" project for a kernel in Rust targeting the RISC-V platform in my repository called [`georglauterbach/uncore`](https://github.com/georglauterbach/uncore).
