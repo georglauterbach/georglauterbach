@@ -10,7 +10,7 @@
 
 ## Who I Am
 
-I am a computer scientist with a Master of Science (M.Sc.) from Technische Universität (TU) Dresden in Germany who has specialized in systems programming, memory safety, operating system kernels, containers, and the [Rust programming language](https://www.rust-lang.org/).
+I am a computer scientist with a Master of Science (M.Sc.) from Technische Universität (TU) Dresden in Germany who has specialized in systems programming, memory safety, operating system kernels, containers, and the Rust programming language.
 
 If you'd like to get the basic set of tooling that I use on a daily basis, head over to [`georglauterbach/hermes`](https://github.com/georglauterbach/hermes).
 
