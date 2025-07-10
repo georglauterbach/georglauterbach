@@ -12,7 +12,7 @@
 
 I am a computer scientist with a Master of Science (M.Sc.) from Technische Universität (TU) Dresden in Germany who has specialized in systems programming, memory safety, operating system kernels, containers, and the Rust programming language.
 
-If you'd like to get the basic set of tooling that I use on a daily basis, head over to [`georglauterbach/hermes`](https://github.com/georglauterbach/hermes).
+If you'd like to get the basic set of tools that I use on a daily basis, head over to [`georglauterbach/hermes`](https://github.com/georglauterbach/hermes). You can find [my VS Code configuration](https://github.com/georglauterbach/hermes/blob/main/data/examples/vs_code/settings.jsonc) there as well.
 
 > [!IMPORTANT]
 >
