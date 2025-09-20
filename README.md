@@ -8,22 +8,16 @@
   <img align="center" width="90%" src="https://github-trophies.vercel.app/?username=georglauterbach&rank=SECRET,SSS,SS,S,AAA&row=6&column=7&margin-w=15&margin-h=15" />
 </p>
 
-## Who I Am
+I am a computer scientist with a Master of Science (M.Sc.) from Technische Universität Dresden (Germany) who focuses on systems programming, memory safety, operating system kernels, containers, and the Rust programming language.
 
-I am a computer scientist with a Master of Science (M.Sc.) from Technische Universität (TU) Dresden in Germany who has specialized in systems programming, memory safety, operating system kernels, containers, and the Rust programming language.
-
-If you'd like to get the basic set of tools that I use on a daily basis, head over to [`georglauterbach/hermes`](https://github.com/georglauterbach/hermes). You can find [my VS Code configuration](https://github.com/georglauterbach/hermes/blob/main/data/examples/vs_code/settings.jsonc) there as well.
-
-> [!IMPORTANT]
+> [!NOTE]
 >
 > "Computer science is no more about computers than astronomy is about telescopes."
 >
 > \- [_Edsger Wybe Dijkstra_](https://amturing.acm.org/award_winners/dijkstra_1053701.cfm).
 
-## What I Do on GitHub
+If you'd like to get the basic set of tools that I use on a daily basis, head over to [`georglauterbach/hermes`](https://github.com/georglauterbach/hermes). You can find [my VS Code configuration](https://github.com/georglauterbach/hermes/blob/main/data/examples/vs_code/settings.jsonc) there as well.
 
-I write a lot of Bash for [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) - one of GitHub's largest containerized mail server projects. DMS provides everyone with the ability to host their mail server in a containerized environment, like Docker Compose, Podman or Kubernetes. Beyond DMS, I have a library for useful Bash functions that anyone can use freely called [`georglauterbach/libbash`](https://github.com/georglauterbach/libbash).
+---
 
-Tooling for proper software development is a key interest of mine. Hence, I am curating [Development Container](https://containers.dev/) features in [`georglauterbach/dev-container-features`](https://github.com/georglauterbach/dev-container-features).
-
-You can also find a "Getting Started" project for a kernel in Rust targeting the RISC-V platform in my repository called [`georglauterbach/uncore`](https://github.com/georglauterbach/uncore).
+I maintain [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) (DMS) - one of GitHub's largest containerized mail server projects - together with a few awesome other developers. DMS provides everyone with the ability to host their mail server in a containerized environment, like Docker Compose, Podman or Kubernetes. Beyond DMS, I have a library for useful Bash functions that anyone can use freely called [`georglauterbach/libbash`](https://github.com/georglauterbach/libbash).
