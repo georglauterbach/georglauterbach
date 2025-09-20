@@ -20,4 +20,4 @@ If you'd like to get the basic set of tools that I use on a daily basis, head ov
 
 ---
 
-I maintain [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) (DMS) - one of GitHub's largest containerized mail server projects - together with a few awesome other developers. DMS provides everyone with the ability to host their mail server in a containerized environment, like Docker Compose, Podman or Kubernetes. Beyond DMS, I have a library for useful Bash functions that anyone can use freely called [`georglauterbach/libbash`](https://github.com/georglauterbach/libbash).
+I maintain [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) (DMS) - one of GitHub's largest containerized mail server projects - together with a few other awesome developers. DMS provides everyone with the ability to host their mail server in a containerized environment, like Docker Compose, Podman or Kubernetes. Beyond DMS, I have a library for useful Bash functions that anyone can use freely called [`georglauterbach/libbash`](https://github.com/georglauterbach/libbash).
